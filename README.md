@@ -50,6 +50,12 @@ This will start the app on [http://localhost:3000](http://localhost:3000) by def
 - The project uses React functional components and hooks.
 - The UI includes charts and tables using libraries such as `react-table` and `@mui/material`.
 
+## Hosted Application
+
+The dashboard is hosted on Vercel and can be accessed at:  
+[https://juspay-dashboard-abhishek-pawars-projects-09c2cce5.vercel.app/]
+(https://juspay-dashboard-abhishek-pawars-projects-09c2cce5.vercel.app/)
+
 ## License
 
 This project is licensed under the MIT License.
